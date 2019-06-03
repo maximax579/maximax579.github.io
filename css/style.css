@@ -16,6 +16,12 @@
     transition: 0.3s;
 }
 
+.menu img {
+    width: 73.33px;
+    height: 63.33px;
+    padding: 5px 5px 5px 15px;
+}
+
 .menu-item:hover {
     color: #fff;
     background-color: #333;
@@ -25,6 +31,7 @@
 .gradient {
     height: 20px;
     background-image: linear-gradient(#aaa, #fff);
+    margin-bottom: -20px;
 }
 
 .image {
@@ -33,18 +40,35 @@
 
 .image img{
     max-height: 400px;
+    width: 100%;
 }
 
 .main{
     padding: 40px 0;
 }
 
-.col{
+.col-lg-6{
     padding: 40px 60px;
 }
 
-.footer{
+footer{
     font-size: 13px;
     padding: 20px;
     margin-left: 5px;
+}
+
+.image-box{
+    width: auto;
+}
+
+.instr-img{
+    padding: 50px;
+    margin-left: 30px;
+    height: auto;
+    max-width: 100%;
+}
+
+.pages{
+    text-align: justify;
+    padding: 60px 40px 20px 40px;
 }
