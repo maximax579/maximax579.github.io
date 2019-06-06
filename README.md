@@ -1,6 +1,6 @@
 ﻿# Grafik website
 
-Grafik is a simple program that lets you visualise even the most complicated polynomial functions on your computer screen. This  website is dedicated to project "Grafik".
+Grafik is a simple program that lets you visualise even the most complicated polynomial functions on your computer screen. This  website is dedicated to the "Grafik" project.
 
 ## Technologies
 
