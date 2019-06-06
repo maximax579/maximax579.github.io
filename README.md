@@ -1,10 +1,10 @@
-﻿# Grafik page
+﻿# Grafik website
 
-Grafik to prosty program, który pozwala narysować na ekranie komputera nawet najbardziej skomplikowane wykresy funkcji wielomianowych. Jest to strona poświęconą projektowi "Grafik".
+Grafik is a simple program that lets you visualise even the most complicated polynomial functions on your computer screen. This  website is dedicated to project "Grafik".
 
-## Technologie
+## Technologies
 
-Do budowy strony zostały wykorzystane biblioteki:
+Libraries used to build website:
 * Bootstrap 4.3.1
 * jQuery 3.4.1
 * parralax.js 1.5.0
